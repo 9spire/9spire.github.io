@@ -1,0 +1,114 @@
+#
+# Be aware that even a small syntax error here can lead to failures in output.
+#
+
+sidebar:
+    about: False # set to False or comment line if you want to remove the "how to use?" in the sidebar
+    education: True # set to False if you want education in main section instead of in sidebar
+
+    # Profile information
+    name: Rebecca Dittmar
+    tagline: Transitioning to Sales Engineer
+    avatar: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
+
+    # Sidebar links
+    email: 9spire@gmail.com
+    phone: 503-927-9605
+    website: 9spire.com #do not add http://
+    linkedin: rebecca-dittmar
+    github: 9spire
+    telegram: # add your nickname without '@' sign
+    gitlab:
+    bitbucket:
+    #twitter: ''
+    stack-overflow: # Number/Username, e.g. 123456/alandoe
+    codewars:
+    goodreads: # Number-Username, e.g. 123456-alandoe
+
+    #languages:
+    #  - idiom: English
+    #    level: Native
+
+    #  - idiom: French
+    #    level: Professional
+
+    #  - idiom: Spanish
+    #    level: Professional
+
+    interests:
+      - item: DJ Ms Match
+        link: 'https://soundcloud.com/djmsmatch'
+      
+      - item: Women Who Code, PDXWIT
+        link:
+
+      - item: Building, Diving, Hiking, Surfing, Roller Skating, SUP, Travel
+        link:
+
+#career-profile:
+#    title: Career Profile
+#    summary: |
+#      Summarise your career here lorem ipsum dolor sit amet, consectetuer
+#      adipiscing elit. You can [download this free resume/CV template here]().
+#      Aenean commodo ligula eget dolor aenean massa. Cum sociis natoque
+#      penatibus et magnis dis parturient montes, nascetur ridiculus mus.
+#      Donec quam felis, ultricies nec, pellentesque eu.
+#      Second paragraph if required.
+education:
+    - degree: BA in Psychology & Art
+      university: University of Southern Colorado
+      time: 1997 - 1999
+
+experiences:
+    - role: Engineer
+      time: 2020 - Present
+      company: Nike - Portland, Oregon
+      details: |
+        Communications Application with audiences, campaigns, and schedules for global delivery to more than 20 million customers on one send. - Full Stack Engineer
+          - Contributed to a functional React/Node app within an agile team to continuously deliver quality, peer-reviewed code. Analyzed integrations with external services, proposed and documented recommended strategies to the development team.
+    - role: Engineer
+      time: 2017 - 2020
+      company: Nike - Portland, Oregon
+      details: |
+        Led a team in the development and maintenance of a microsite platform for internal Nike teams.  - UI Engineer, User Experience
+          - Architected and presented the platform to marketing teams and agencies based on technological integration needs and internal clients’ strategy. Created demonstrations to present to leadership and the larger technological organization on the value of the product. Onboarded developers, content editors, and agencies on best use of the platform. 
+          - An SSO-secure WordPress core, plus a suite of curated plugins, fueled a drag-and-drop interface for content editors to create responsive, consistently beautiful websites for an internal audience. 
+    - role: Front End Engineer
+      time: 2014 - 2016
+      company: Distinct Daily, New York, NY
+      details: |
+          - Worked with leadership, designers, iOS engineers, and DevOps to create and iterate on a web-based companion app. The iOS app shared an API to mirror messaging, searching, user and content feeds, in-app image editing, and streaming media.
+          - Built on a frontend of Backbone.js, jQuery/javascript, Gulp, Bootstrap. Backend driven by Python, Django and Postgres on AWS. 
+    - role: Senior Designer
+      time: 2007 - 2014
+      company: PETA, Norfolk, VA
+      details: |
+          - Led the ideation, development and maintenance of hundreds of major PETA sites, with impactful, eye-catching design for animal rights. Websites viewed by millions, with thousands of animals saved and grassroots activists supported while working across multiple tech stacks in a day. Website design & development, illustrations, email, and 3rd party site integrations. Worked on ASP, Visual Studio .NET, Wordpress, Sharepoint and more. 
+
+skills:
+    title: Skills &amp; Proficiency
+
+    toolset:
+      - name: React, NodeJS, mobX
+        level: 90%
+
+      - name: Javascript & ES6
+        level: 90%
+
+      - name: WordPress & PHP
+        level: 95%
+
+      - name: HTML & CSS/SCSS
+        level: 95%
+
+      - name: Bootstrap/Material UI, Jekyll
+        level: 80%
+
+      - name: AWS (Route 53, S3, Elastic Beanstalk, EC2, RDS)
+        level: 80%
+
+      - name: Django/Wagtail
+        level: 75%
+
+footer: >
+    Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
