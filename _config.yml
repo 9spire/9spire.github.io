@@ -1,17 +1,16 @@
 title: Online Resume for Rebecca Dittmar
 email: 9spire@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
-  Online Resume for Rebecca Dittmar - Software Engineer transitioning to Sales Engineer.
+  Online Resume for Rebecca Dittmar - Software Engineer
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
-twitter_username: 
-github_username:  9spire
+twitter_username:
+github_username: 9spire
 theme_skin: turquoise # blue turquoise green berry orange ceramic
 chrome_mobile_color: #use hex colors (ex:#1976d2) or leave empty if you don't want a color for chrome mobile searchbar
-
-# Build settings
-#theme: minima
-#plugins:
+  # Build settings
+  #theme: minima
+  #plugins:
   - jekyll-feed
 
 # Sass/SCSS
@@ -32,8 +31,6 @@ compress_html: # - http://jch.penibelst.de/
 port: 4000
 host: 0.0.0.0
 safe: false
-
-
 # Exclude from processing.
 # The following items will not be processed, by default.
 # Any item listed under the `exclude:` key here will be automatically added to
