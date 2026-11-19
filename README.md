@@ -1,4 +1,4 @@
-# Rebecca Dittmar — Portfolio
+# Rebecca Dittmar - Portfolio
 
 Personal resume and portfolio site.
 
